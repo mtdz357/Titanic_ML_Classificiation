@@ -1,0 +1,10 @@
+# Python'un arkada oluşturduğu gereksiz önbellek dosyaları
+__pycache__/
+*.pyc
+
+# Büyük veri setlerini içeren klasörü yoksay
+data/
+
+# Sanal ortam klasörünü (varsa) yoksay
+.venv/
+env/
